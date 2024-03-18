@@ -1,19 +1,3 @@
 - 👋 Hi, I’m @Maravesly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-
-
-
-
-<!---
-Maravesly/Maravesly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-https://github-enterprise.s3.amazonaws.com/hyperv/updates/github-enterprise-hyperv-3.12.0.pkg
+- 👀 I’m interested in
+- 
